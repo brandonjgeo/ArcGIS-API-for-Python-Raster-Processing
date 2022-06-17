@@ -25,7 +25,7 @@ There are multiple ways of executing these notebooks as listed below:
 Find a bug or want to request a new feature?  Please let me know by submitting an issue. Thank you!
 
 ## Contributing
-Anyone and everyone is welcome to contribute. Please see our contribution.
+Anyone and everyone is welcome to contribute.
 
 ## Licensing
 A copy of the license is available in the repository.
